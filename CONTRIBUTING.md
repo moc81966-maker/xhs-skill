@@ -8,7 +8,7 @@
 
 ### 报告 Bug
 
-1. 在 [Issues](https://github.com/your-username/xhs-skill/issues) 中搜索是否已有相同问题
+1. 在 [Issues](https://github.com/moc81966-maker/xhs-skill/issues) 中搜索是否已有相同问题
 2. 如果没有，创建新的 Issue
 3. 使用 Bug 报告模板，包含：
    - 问题描述
@@ -19,7 +19,7 @@
 
 ### 提出新功能
 
-1. 在 [Issues](https://github.com/your-username/xhs-skill/issues) 中创建 Feature Request
+1. 在 [Issues](https://github.com/moc81966-maker/xhs-skill/issues) 中创建 Feature Request
 2. 说明功能用途和使用场景
 3. 如果可能，提供示例命令和输出
 
@@ -28,7 +28,7 @@
 ```bash
 # 1. Fork 仓库
 # 2. 克隆到本地
-git clone https://github.com/your-username/xhs-skill.git
+git clone https://github.com/moc81966-maker/xhs-skill.git
 
 # 3. 创建功能分支
 git checkout -b feature/amazing-feature
@@ -181,7 +181,7 @@ SKILL.md 是 Claude Code 读取的核心文件，修改时注意：
 
 ## 问题？
 
-如有任何问题，欢迎在 [Issues](https://github.com/your-username/xhs-skill/issues) 中提问！
+如有任何问题，欢迎在 [Issues](https://github.com/moc81966-maker/xhs-skill/issues) 中提问！
 
 ---
 

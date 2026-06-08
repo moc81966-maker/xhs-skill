@@ -42,7 +42,7 @@
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/your-username/xhs-skill.git
+git clone https://github.com/moc81966-maker/xhs-skill.git
 
 # 2. 复制到 Claude Code skills 目录
 cp xhs-skill/SKILL.md ~/.claude/skills/xhs/SKILL.md
@@ -336,6 +336,6 @@ xhs-skill/
 
 **如果这个项目对你有帮助，请给一个 ⭐ Star！**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=your-username/xhs-skill&type=Date)](https://star-history.com/#your-username/xhs-skill&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=moc81966-maker/xhs-skill&type=Date)](https://star-history.com/#moc81966-maker/xhs-skill&Date)
 
 </div>
